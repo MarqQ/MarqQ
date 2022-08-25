@@ -5,9 +5,9 @@
     <img src="https://komarev.com/ghpvc/?username=marqq&label=Profile%20views&color=0e75b6&style=flat" alt="marqq" />
 </p>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=marqq" alt="marqq" />
+        <img src="https://github-profile-trophy.vercel.app/?username=marqq&row=2&column=3&margin-w=15&margin-h=15"" alt="marqq" />
     </a>
 </p>
 
